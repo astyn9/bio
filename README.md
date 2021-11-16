@@ -1,2 +1,2 @@
-# bios
+# bio
 ![Screenshot](perfil.png)
