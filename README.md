@@ -1,2 +1,2 @@
-# bio
+# Bio
 ![Screenshot](perfil.png)
